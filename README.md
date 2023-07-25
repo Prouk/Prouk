@@ -1,16 +1,21 @@
-### Hi there 👋
+![banner](https://github.com/Prouk/Prouk/assets/21678081/37b49535-0857-47ab-a9f3-ff920819ffab)
+![](https://komarev.com/ghpvc/?username=Prouk)
+# The me : 
 
-<!--
-**Prouk/Prouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Not a weeb ! 
+- I always work very hard, ALWAYS !
+- The most brillant person you'll see in your entire life probably .
+- I never just erase a project just to develop it again .
 
-Here are some ideas to get you started:
+# Projects :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A site that I will maybe continue developping this time : [Moujin Dusic](http://www.moujin.co)
+- Some Bots that are invisible cause i don't want to bother igoring the files where the tokens are...
+
+# Contact me ÒwÓ :
+
+Discord : @prouk
+> Nothing else, I don't my notifications to be a shitshow.
+
+## My Music apparently
+![My musics](https://spotify-recently-played-readme.vercel.app/api?user=04g3w4j67cs0pvunzj39z24ae&width=1000)
