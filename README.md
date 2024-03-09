@@ -16,6 +16,3 @@
 
 Discord : @prouk
 > Nothing else, I don't want my notifications to be a shitshow.
-
-## My Music apparently
-![My musics](https://spotify-recently-played-readme.vercel.app/api?user=04g3w4j67cs0pvunzj39z24ae&width=1000)
