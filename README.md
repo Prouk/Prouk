@@ -9,7 +9,7 @@
 
 # Projects :
 
-- [Flouk]() The NixOS flake wich is my daily driver.
+- [Flouk](https://github.com/Prouk/Flouk) The NixOS flake wich is my daily driver.
 - Some Bots that are invisible cause i don't want to bother igoring the files where the tokens are...
 
 # Contact me ÒwÓ :
