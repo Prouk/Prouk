@@ -9,7 +9,7 @@
 
 # Projects :
 
-- A site that I will maybe continue developping this time : [Moujin](http://www.moujin.co)
+- [Flouk]() The NixOS flake wich is my daily driver.
 - Some Bots that are invisible cause i don't want to bother igoring the files where the tokens are...
 
 # Contact me ÒwÓ :
