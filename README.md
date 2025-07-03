@@ -10,7 +10,7 @@
 # Projects :
 
 - [Flouk](https://github.com/Prouk/Flouk) The NixOS flake wich is my daily driver.
-- [Zen Browser Flake](https://github.com/Prouk/zen-browser-flake)Nixos flake for [Zen Browser](https://zen-browser.app/).
+- [Zen Browser Flake](https://github.com/Prouk/zen-browser-flake) Nixos flake for [Zen Browser](https://zen-browser.app/).
 - Some Bots that are invisible cause i don't want to bother igoring the files where the tokens are...
 
 # Contact me ÒwÓ :
