@@ -5,13 +5,13 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Prouk"><img src="https://img.shields.io/badge/Github-grey?style=flat-square&logo=github"></a>
-  <a href="https://www.reddit.com/user/Prouk/"><img src="https://img.shields.io/reddit/user-karma/combined/Prouk?style=flat-square&logo=Reddit"></a>
-  <a href="https://www.linkedin.com/in/valentin-tahon/"><img src="https://img.shields.io/badge/in-blue?style=flat-square&logo=Linkedin"></a>
-  <a href="https://infosec.exchange/@Prouk"><img src="https://img.shields.io/badge/Mastodon-grey?style=flat-square&logo=Mastodon"></a>
-  <a href="https://x.com/Prouk_"><img src="https://img.shields.io/twitter/follow/Prouk_?label=%40Prouk_"></a>
-  <img src="https://img.shields.io/badge/prouk-grey?style=flat-square&logo=Discord">
-  <a href="https://discord.gg/U566M3pvYr"><img src="https://img.shields.io/discord/1239904260179623997?style=flat-square&logo=Discord&label=Server"></a>
+  <a href="https://github.com/Prouk"><img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github"></a>
+  <a href="https://www.reddit.com/user/Prouk/"><img src="https://img.shields.io/reddit/user-karma/combined/Prouk?style=for-the-badge&logo=Reddit"></a>
+  <a href="https://www.linkedin.com/in/valentin-tahon/"><img src="https://img.shields.io/badge/in-blue?style=for-the-badge&logo=Linkedin"></a>
+  <a href="https://infosec.exchange/@Prouk"><img src="https://img.shields.io/badge/Mastodon-grey?style=for-the-badge&logo=Mastodon"></a>
+  <img src="https://img.shields.io/badge/prouk-grey?style=for-the-badge&logo=Discord">
+  <a href="https://discord.gg/U566M3pvYr"><img src="https://img.shields.io/discord/1239904260179623997?style=for-the-badge&logo=Discord&label=Server"></a>
+  <a href="https://x.com/Prouk_"><img src="https://img.shields.io/twitter/follow/Prouk_?style=for-the-badge&label=%40Prouk_&logo=X"></a>
 </div>
 
 ### French<img src="https://go.dev/images/go-logo-blue.svg" height="20">  Study and developpement engineer at Worldline ( big European payment thingy )
