@@ -1,5 +1,4 @@
 <h1 align="center">Prouk's Github page</h1>
-<h2 align="center">French #Golang Study and developpement engineer at Worldline ( big European payment thingy )</h2>
 
 <div align="center">
   <img src"https://img.shields.io/badge/Github-grey?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2FProuk)">
@@ -10,6 +9,6 @@
   <img src="https://img.shields.io/discord/1239904260179623997?style=flat&logo=Discord&label=Server&link=https%3A%2F%2Fdiscord.gg%2FU566M3pvYr">
 </div>
 
-## Such Wow Cards
+### French ![Golang](https://go.dev/images/go-logo-blue.svg) Study and developpement engineer at Worldline ( big European payment thingy )
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prouk&show_icons=true&theme=date_night)
