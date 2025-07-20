@@ -2,7 +2,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Prouk&show_icons=true&theme=date_night">
 </div>
 
-<h1 align="center">Prouk's Github page</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=64&duration=2500&pause=1000&repeat=false&width=435&lines=Welcome+to+my+github+page)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/Prouk)"><img src="https://img.shields.io/badge/Github-grey?style=flat-square&logo=github"></a>
@@ -18,10 +18,22 @@
 
 ## About me
 
-Just a french guy wanting to learn anything coding related.
+Just a french guy wanting to learn anything coding related.\
+Loving some good music while coding ( Classical, Heavy-Metal, Post-Hardcore, Jazz, BossaNova, SpeedCore )\
+Currently riding my Nix<img src="https://nixos.org/favicon.ico" height="16">S [Flake](https://github.com/Prouk/Flouk) as a daily driver.
 
-Loving some good music while coding ( Classical, Heavy-Metal, Post-Hardcore, Jazz, BossaNova, SpeedCore )
+## My stack
 
-Currently driving my <img src="https://nixos.org/favicon.ico" height="20"> NixOS [Flake](https://github.com/Prouk/Flouk) as a daily driver.
+**Softwares:**\
 
-## Languages
+- Editor: [Helix](https://github.com/helix-editor/helix)
+- Versioning: [Lazygit](https://github.com/jesseduffield/lazygit)
+
+**Languages: ( preference order )**\
+
+- Go
+- Rust ( learning it )
+- HTML / CSS / JS *( if web project -> Go + templ + TailwindCSS + htmx)*
+- SQL
+- NodeJS
+- Java
