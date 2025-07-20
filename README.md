@@ -22,6 +22,30 @@ Just a french guy wanting to learn anything coding related.\
 Loving some good music while coding ( Classical, Heavy-Metal, Post-Hardcore, Jazz, BossaNova, SpeedCore )\
 Currently riding my Nix<img src="https://nixos.org/favicon.ico" height="16">S [Flake](https://github.com/Prouk/Flouk) as a daily driver.
 
+<details>
+
+<summary>My Work experience</summary>
+
+### Now: [Worldline](https://worldline.com/) ( European Payment solution )
+
+Out of order:\
+Go, Kafka, Puppet, GitLab CI\
+Working on the payment solution itself, and sometimes on web tools for testers and certifications
+
+### Before: Umanis (Consulting company that have been bought)
+
+Out of order:\
+NodeJS, Java\
+Working on a tool for managing patients medications in some french hospitals
+
+### Even Before: [Kimoce](https://kimoce-oslo.fr/) ( Entreprise stocks management )
+
+Out of order:\
+JAVA, NodeJS\
+Working on a software helping employee, stock, ticketing management
+
+</details>
+
 ## My stack
 
 **Softwares:**
