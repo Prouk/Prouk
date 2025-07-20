@@ -64,8 +64,9 @@ Working on a software helping employee, stock, ticketing management
 - PHP
 - Java
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prouk&size_weight=0.5&count_weight=0.5&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prouk&size_weight=0.5&count_weight=0.5&layout=compact&theme=date_night">
+</div>
 
 ## My projects
 
