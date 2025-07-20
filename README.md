@@ -24,7 +24,7 @@ Currently riding my Nix<img src="https://nixos.org/favicon.ico" height="16">S [F
 
 <details>
 
-<summary>My Work experience</summary>
+<summary>My Work Experience</summary>
 
 ### Now: [Worldline](https://worldline.com/) ( European Payment solution )
 
