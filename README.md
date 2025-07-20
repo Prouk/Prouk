@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prouk&show_icons=true&theme=date_night">
+</div>
+
 <h1 align="center">Prouk's Github page</h1>
 
 <div align="center">
@@ -15,9 +19,9 @@
 ## About me
 
 Just a french guy wanting to learn anything coding related.
+
 Loving some good music while coding ( Classical, Heavy-Metal, Post-Hardcore, Jazz, BossaNova, SpeedCore )
 
-Currently driving my <img src="https://nixos.org/favicon.ico" height="20"> NixOS [flake](https://github.com/Prouk/Flouk) as a daily driver.
+Currently driving my <img src="https://nixos.org/favicon.ico" height="20"> NixOS [Flake](https://github.com/Prouk/Flouk) as a daily driver.
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prouk&show_icons=true&theme=date_night)
+## Languages
