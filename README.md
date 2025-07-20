@@ -9,6 +9,6 @@
   <img src="https://img.shields.io/discord/1239904260179623997?style=flat&logo=Discord&label=Server&link=https%3A%2F%2Fdiscord.gg%2FU566M3pvYr">
 </div>
 
-### French <img src="https://go.dev/images/go-logo-blue.svg" height="32"> Study and developpement engineer at Worldline ( big European payment thingy )
+### French <img src="https://go.dev/images/go-logo-blue.svg" height="1em"> Study and developpement engineer at Worldline ( big European payment thingy )
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prouk&show_icons=true&theme=date_night)
