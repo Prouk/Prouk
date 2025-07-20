@@ -1,8 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=56&duration=2500&pause=1000&color=478822&vCenter=true&repeat=false&width=850&height=56&lines=Welcome+to+my+github+page)](https://git.io/typing-svg)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prouk&show_icons=true&theme=date_night">
 </div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=64&duration=2500&pause=1000&color=478822&vCenter=true&repeat=false&width=900&height=64&lines=Welcome+to+my+github+page)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/Prouk)"><img src="https://img.shields.io/badge/Github-grey?style=flat-square&logo=github"></a>
