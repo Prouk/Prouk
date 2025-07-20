@@ -65,6 +65,8 @@ Working on a software helping employee, stock, ticketing management
 - Java
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prouk&size_weight=0.5&count_weight=0.5&layout=compact)
+
 ## My projects
 
 - [Flouk](https://github.com/Prouk/Flouk): NixOS Flake that is use as a dailydriver.
