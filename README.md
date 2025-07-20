@@ -28,19 +28,19 @@ Currently riding my Nix<img src="https://nixos.org/favicon.ico" height="16">S [F
 
 ### Now: [Worldline](https://worldline.com/) ( European Payment solution )
 
-Out of order:\
+**Out of order:**\
 Go, Kafka, Puppet, GitLab CI\
 Working on the payment solution itself, and sometimes on web tools for testers and certifications
 
 ### Before: Umanis (Consulting company that have been bought)
 
-Out of order:\
+**Out of order:**\
 NodeJS, Java\
 Working on a tool for managing patients medications in some french hospitals
 
 ### Even Before: [Kimoce](https://kimoce-oslo.fr/) ( Entreprise stocks management )
 
-Out of order:\
+**Out of order:**\
 JAVA, NodeJS\
 Working on a software helping employee, stock, ticketing management
 
