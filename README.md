@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Prouk)"><img src="https://img.shields.io/badge/Github-grey?style=flat-square&logo=github"></a>
+  <a href="https://github.com/Prouk"><img src="https://img.shields.io/badge/Github-grey?style=flat-square&logo=github"></a>
   <a href="https://www.reddit.com/user/Prouk/"><img src="https://img.shields.io/reddit/user-karma/combined/Prouk?style=flat-square&logo=Reddit"></a>
   <a href="https://www.linkedin.com/in/valentin-tahon/"><img src="https://img.shields.io/badge/in-blue?style=flat-square&logo=Linkedin"></a>
   <a href="https://infosec.exchange/@Prouk"><img src="https://img.shields.io/badge/Mastodon-grey?style=flat-square&logo=Mastodon"></a>
