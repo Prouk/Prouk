@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=56&duration=2500&pause=1000&color=478822&vCenter=true&repeat=false&width=850&height=56&lines=Welcome+to+my+github+page)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=56&duration=2500&pause=1000&color=478822&vCenter=true&repeat=false&width=850&height=56&lines=Welcome+to+my+github+page)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prouk&show_icons=true&theme=date_night">
@@ -24,12 +24,12 @@ Currently riding my Nix<img src="https://nixos.org/favicon.ico" height="16">S [F
 
 ## My stack
 
-**Softwares:**\
+**Softwares:**
 
 - Editor: [Helix](https://github.com/helix-editor/helix)
 - Versioning: [Lazygit](https://github.com/jesseduffield/lazygit)
 
-**Languages: ( preference order )**\
+**Languages: ( preference order )**
 
 - Go
 - Rust ( learning it )
@@ -37,3 +37,10 @@ Currently riding my Nix<img src="https://nixos.org/favicon.ico" height="16">S [F
 - SQL
 - NodeJS
 - Java
+
+
+## My projects
+
+- [Flouk](https://github.com/Prouk/Flouk): NixOS Flake that is use as a dailydriver.
+- [zen-browser-flake](https://github.com/Prouk/zen-browser-flake): Flake for [Zen Browser](https://zen-browser.app/) with autoupdate via github actions.
+- [WOSC](https://github.com/Prouk/WOSC): Utility to turn on / off your LG WebOS TV with linux system calls (turning on / off when starting computer etc)
