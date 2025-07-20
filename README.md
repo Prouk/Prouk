@@ -35,7 +35,9 @@ Currently riding my Nix<img src="https://nixos.org/favicon.ico" height="16">S [F
 - Rust ( learning it )
 - HTML / CSS / JS *( if web project -> Go + templ + TailwindCSS + htmx)*
 - SQL
+- C#
 - NodeJS
+- PHP
 - Java
 
 
