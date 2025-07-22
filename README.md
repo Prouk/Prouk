@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=56&duration=2500&pause=1000&color=478822&vCenter=true&repeat=false&width=850&height=56&lines=Welcome+to+my+github+page)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=56&duration=2500&pause=1000&color=478822&vCenter=true&repeat=false&width=850&height=56&lines=Ahoy+there+,+are+you+lost%3F)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prouk&show_icons=true&theme=date_night">
@@ -38,7 +38,7 @@ Working on the payment solution itself, and sometimes on web tools for testers a
 NodeJS, Java\
 Working on a tool for managing patients medications in some french hospitals
 
-### Even Before: [Kimoce](https://kimoce-oslo.fr/) ( Entreprise stocks management )
+### Beforer: [Kimoce](https://kimoce-oslo.fr/) ( Entreprise stocks management )
 
 **Out of order:**\
 JAVA, NodeJS\
