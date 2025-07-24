@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Prouk&style=for-the-badge&abbreviated=true">
+</div>
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=56&duration=2500&pause=1000&color=478822&vCenter=true&repeat=false&width=850&height=56&lines=Ahoy+there,+are+you+lost%3F)
 
 <div align="center">
