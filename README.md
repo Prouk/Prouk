@@ -5,10 +5,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=56&duration=2500&pause=1000&color=478822&vCenter=true&repeat=false&width=850&height=56&lines=Ahoy+there,+are+you+lost%3F)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prouk&show_icons=true&theme=date_night">
-</div>
-
-<div align="center">
   <a href="https://github.com/Prouk"><img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github"></a>
   <a href="https://www.reddit.com/user/Prouk/"><img src="https://img.shields.io/reddit/user-karma/combined/Prouk?style=for-the-badge&logo=Reddit"></a>
   <a href="https://www.linkedin.com/in/valentin-tahon/"><img src="https://img.shields.io/badge/in-blue?style=for-the-badge&logo=Linkedin"></a>
@@ -68,9 +64,6 @@ Working on a software helping employee, stock, ticketing management
 - PHP
 - Java
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prouk&size_weight=0.5&count_weight=0.5&layout=compact&theme=date_night">
-</div>
 
 ## My projects
 
