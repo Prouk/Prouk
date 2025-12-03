@@ -24,7 +24,7 @@
 
 Just a french guy wanting to learn anything coding related.\
 Loving some good music while coding ( Classical, Heavy-Metal, Post-Hardcore, Jazz, BossaNova, SpeedCore )\
-Currently riding my Nix<img src="https://nixos.org/favicon.ico" height="16">S [Flake](https://github.com/Prouk/Flouk) as a daily driver.
+Currently riding my <img src="https://archlinux.org/static/favicon.png" height="16">rch [dotfiles](https://github.com/Prouk/Flouk) as a daily driver.
 
 <details>
 
