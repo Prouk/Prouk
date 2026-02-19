@@ -50,8 +50,8 @@ Working on a software helping employee, stock, ticketing management
 
 **Softwares:**
 
-- Editor: [Helix](https://github.com/helix-editor/helix)
-- Versioning: [Lazygit](https://github.com/jesseduffield/lazygit)
+- Editor: [Zed](https://zed.dev/) / [Helix](https://github.com/helix-editor/helix)
+- Versioning: Git with [Lazygit](https://github.com/jesseduffield/lazygit)
 
 **Languages: ( preference order )**
 
