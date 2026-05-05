@@ -29,7 +29,7 @@ Currently riding <img src="https://archlinux.org/static/favicon.png" height="16"
 ### Now: [Worldline](https://worldline.com/) ( European Payment solution )
 
 **Out of order:**\
-Go, Kafka, Puppet, GitLab CI\
+Go, C++, C, Kafka, Puppet, GitLab CI\
 Working on the payment solution itself, and sometimes on web tools for testers and certifications
 
 ### Before: Umanis (Consulting company that have been bought)
