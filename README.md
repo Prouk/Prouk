@@ -20,7 +20,7 @@
 
 Just a french guy wanting to learn anything coding related.\
 Loving some good music while coding ( Classical, Heavy-Metal, Post-Hardcore, Jazz, BossaNova, SpeedCore )\
-Currently riding my <img src="https://archlinux.org/static/favicon.png" height="16">rch [dotfiles](https://github.com/Prouk/Flouk) as a daily driver.
+Currently riding <img src="https://archlinux.org/static/favicon.png" height="16">rch as a daily driver.
 
 <details>
 
@@ -50,7 +50,7 @@ Working on a software helping employee, stock, ticketing management
 
 **Softwares:**
 
-- Editor: [Zed](https://zed.dev/) / [Helix](https://github.com/helix-editor/helix)
+- Editor: [Zed](https://zed.dev/) / [NeoVim](https://github.com/neovim/neovim)
 - Versioning: Git with [Lazygit](https://github.com/jesseduffield/lazygit)
 
 **Languages: ( preference order )**
@@ -63,10 +63,3 @@ Working on a software helping employee, stock, ticketing management
 - NodeJS
 - PHP
 - Java
-
-
-## My projects
-
-- [Flouk](https://github.com/Prouk/Flouk): NixOS Flake that is use as a dailydriver.
-- [zen-browser-flake](https://github.com/Prouk/zen-browser-flake): Flake for [Zen Browser](https://zen-browser.app/) with autoupdate via github actions.
-- [WOSC](https://github.com/Prouk/WOSC): Utility to turn on / off your LG WebOS TV with linux system calls (turning on / off when starting computer etc)
